@@ -2,7 +2,7 @@
 layout: default
 modal-id: 5
 date: 2017-11-05
-img: project-5/01.png
+img: project-5/01.jpg
 alt: image-alt
 project-date: April 2017
 client: Start Bootstrap
