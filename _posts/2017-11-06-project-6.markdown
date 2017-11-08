@@ -2,10 +2,10 @@
 layout: default
 modal-id: 6
 date: 2014-07-15
-img: project-1/01.tif
+img: project-6/01.tif
 alt: image-alt
 description: Use this area of the page to describe your project.
 
 ---
 
-![](project-1/02.jpg)
+![](project-6/02.jpg)
