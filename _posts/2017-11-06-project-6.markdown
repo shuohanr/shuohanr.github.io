@@ -8,4 +8,4 @@ description: Use this area of the page to describe your project.
 
 ---
 
-![](project-6/02.jpg)
+![](img/portfolio/project-6/02.jpg)
